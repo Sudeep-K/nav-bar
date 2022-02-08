@@ -1,0 +1,29 @@
+{
+  "name": "nav-bar",
+  "version": "1.0.0",
+  "description": "quick way to implement the all time useful nav bar, now also responsive",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "webpack --watch",
+    "start": "webpack serve --open",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sudeep-K/nav-bar.git"
+  },
+  "keywords": [
+    "navigation"
+  ],
+  "author": "sudip-k9",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sudeep-K/nav-bar/issues"
+  },
+  "homepage": "https://github.com/Sudeep-K/nav-bar#readme",
+  "devDependencies": {
+    "webpack": "^5.68.0",
+    "webpack-cli": "^4.9.2",
+    "webpack-dev-server": "^4.7.4"
+  }
+}
